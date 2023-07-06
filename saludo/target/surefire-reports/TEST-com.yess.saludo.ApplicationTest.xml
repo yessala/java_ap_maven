@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.yess.saludo.ApplicationTest" time="0.358" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.yess.saludo.ApplicationTest" time="0.227" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="AR"/>
     <property name="sun.boot.library.path" value="C:\Users\yessa\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\yessa\AppData\Local\Temp\surefire17249281824469336730\surefirebooter-20230706120241906_3.jar C:\Users\yessa\AppData\Local\Temp\surefire17249281824469336730 2023-07-06T12-02-32_464-jvmRun1 surefire-20230706120241906_1tmp surefire_0-20230706120241906_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\yessa\AppData\Local\Temp\surefire1760273120704627789\surefirebooter-20230706131550498_3.jar C:\Users\yessa\AppData\Local\Temp\surefire1760273120704627789 2023-07-06T13-15-49_268-jvmRun1 surefire-20230706131550498_1tmp surefire_0-20230706131550498_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\yessa\OneDrive\Escritorio\EGG\AP_m3\Maven\saludo\target\test-classes;C:\Users\yessa\OneDrive\Escritorio\EGG\AP_m3\Maven\saludo\target\classes;C:\Users\yessa\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\yessa\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;C:\Users\yessa\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\yessa\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\yessa\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\yessa\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\yessa\AppData\Local\Temp\surefire17249281824469336730\surefirebooter-20230706120241906_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\yessa\AppData\Local\Temp\surefire1760273120704627789\surefirebooter-20230706131550498_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.6+10"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.yess.saludo.ApplicationTest" time="0.288"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.yess.saludo.ApplicationTest" time="0.163"/>
 </testsuite>

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.yess.saludo.ApplicationTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.358 s - in com.yess.saludo.ApplicationTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.227 s - in com.yess.saludo.ApplicationTest
