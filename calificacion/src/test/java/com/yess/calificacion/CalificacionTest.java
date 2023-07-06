@@ -38,10 +38,10 @@ class CalificacionTest {
 		Calificacion.main(new String[1]);
 
 		String out = formatOut.toString();
-		String[] outs = out.split("\r\n");
-		
-		assertEquals("Ingrese una puntuación para calificarla (0-100)", outs[0]);
-		assertEquals("La calificación es 'A'", outs[1]);
+//		String[] outs = out.split("\r\n");
+		//otra manera de colocar dos sout pero creo que con las Arrays es mejor
+		assertEquals("Ingrese una puntuación para calificarla (0-100)\r\nLa calificación es 'A'\r\n", out);
+//		assertEquals("La calificación es 'A'", outs[1]);
 
 	}
 }
