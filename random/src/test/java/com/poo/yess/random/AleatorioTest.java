@@ -4,12 +4,14 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.junit.jupiter.api.RepeatedTest;
+
 class AleatorioTest {
 
-    @Test
+    @RepeatedTest(10)
     void testMain() {
     	
     	int salida = Aleatorio.obtenerNumero();
-        assertEquals(salida>=0  && salida<=100, true);
+        assertTrue(salida>=0  && salida<=100);
     }
 }
